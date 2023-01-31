@@ -11,4 +11,4 @@ if num > 1:   #If number is greater than 1
            break
         
    else:
-       print(num,"is a prime number")
+       print(num,"is a prime number is")
